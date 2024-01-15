@@ -1,0 +1,127 @@
+[
+    {
+        "username": "danabar",
+        "password": "1234",
+        "fullname": "Dana Bar",
+        "imgUrl": "src/assets/images/ai-generated(15).jpg",
+        "following": [
+            {
+                "_id": "u106",
+                "fullname": "Dob",
+                "imgUrl": "src/assets/images/child.jpg"
+            }
+        ],
+        "followers": [
+            {
+                "_id": "u105",
+                "fullname": "Bob",
+                "imgUrl": "src/assets/images/model.jpg"
+            }
+        ],
+        "savedStoryIds": [
+            "s104",
+            "s111",
+            "s123"
+        ]
+    },
+    {
+        "username": "ortaltagenye",
+        "password": "1234",
+        "fullname": "Ortal Tagenye",
+        "imgUrl": "src/assets/images/ai-generated(2).jpg",
+        "following": [
+            {
+                "_id": "u106",
+                "fullname": "Dob",
+                "imgUrl": "src/assets/images/child.jpg"
+            }
+        ],
+        "followers": [
+            {
+                "_id": "u105",
+                "fullname": "Bob",
+                "imgUrl": "src/assets/images/model.jpg"
+            }
+        ],
+        "savedStoryIds": [
+            "s104",
+            "s111",
+            "s123"
+        ]
+    },
+    {
+        "username": "loringad",
+        "password": "1234",
+        "fullname": "Lorin Gad",
+        "imgUrl": "src/assets/images/ai-generated(7).jpg",
+        "following": [
+            {
+                "_id": "u106",
+                "fullname": "Dob",
+                "imgUrl": "src/assets/images/child.jpg"
+            }
+        ],
+        "followers": [
+            {
+                "_id": "u105",
+                "fullname": "Bob",
+                "imgUrl": "src/assets/images/model.jpg"
+            }
+        ],
+        "savedStoryIds": [
+            "s104",
+            "s111",
+            "s123"
+        ]
+    },
+    {
+        "username": "miriamginz",
+        "password": "1234",
+        "fullname": "Miriam Ginz",
+        "imgUrl": "src/assets/images/ai-generated(9).jpg",
+        "following": [
+            {
+                "_id": "u106",
+                "fullname": "Dob",
+                "imgUrl": "src/assets/images/child.jpg"
+            }
+        ],
+        "followers": [
+            {
+                "_id": "u105",
+                "fullname": "Bob",
+                "imgUrl": "src/assets/images/model.jpg"
+            }
+        ],
+        "savedStoryIds": [
+            "s104",
+            "s111",
+            "s123"
+        ]
+    },
+    {
+        "username": "racheli__",
+        "password": "1234",
+        "fullname": "Racheli Ron",
+        "imgUrl": "src/assets/images/woman3.jpg",
+        "following": [
+            {
+                "_id": "u106",
+                "fullname": "Dob",
+                "imgUrl": "src/assets/images/child.jpg"
+            }
+        ],
+        "followers": [
+            {
+                "_id": "u105",
+                "fullname": "Bob",
+                "imgUrl": "src/assets/images/model.jpg"
+            }
+        ],
+        "savedStoryIds": [
+            "s104",
+            "s111",
+            "s123"
+        ]
+    }
+]
