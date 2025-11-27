@@ -14,14 +14,15 @@ export async function getUser(req, res) {
 }
 
 export async function getUsers(req, res) {
-    // console.log('********')
-    // console.log(req);
+    console.log('********')
+    console.log(req);
     try {
         const filterBy = {
             txt: req.query?.txt || '',
         }
+        console.log(filterBy)
         const users = await userService.query(filterBy)
-        //console.log(users)
+        console.log(users)
         res.send(users)
     } catch (err) {
         logger.error('Failed to get users', err)
