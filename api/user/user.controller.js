@@ -20,7 +20,7 @@ export async function getUsers(req, res) {
         const filterBy = {
             txt: req.query?.txt || '',
         }
-        console.log(filterBy)
+        console.log('filterBy',filterBy)
         const users = await userService.query(filterBy)
         console.log(users)
         res.send(users)
